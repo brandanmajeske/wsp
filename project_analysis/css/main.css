@@ -1,0 +1,43 @@
+body {
+	font: 1em/1.25 "Ropa Sans", Arial, "Sans Serif";
+	color: #222;
+	background-color: #f7f7f7;
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+#wrapper {
+	max-width: 100%;
+	margin: 0 5%;
+}
+
+
+
+h1, h2, h3 {
+	margin: 0 0 5px 0;
+	text-shadow: 0px 1px 0px #fff;
+}
+
+p {
+	margin: 0 0 10px 0;
+}
+
+h3 a{
+	text-shadow: none;
+}
+
+a:link {
+	color: #001A55;
+}
+
+a:visited {
+	color: #001A55;
+}
+
+a:hover {
+	color: #004EFF;
+}
+
+a:active {
+	color: #000;
+}
